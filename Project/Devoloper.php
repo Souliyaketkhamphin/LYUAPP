@@ -5,6 +5,12 @@
     <title></title>
   </head>
   <body>
-    Devoloper
-  </body>
+    <div class="jumbotron text-center">
+      <center h1 class="text-primary">ຍິນດີຕ້ອນຮັບສູ່ລະບົບຂາອອກ-ຂາເຂົ້າສູນກາງຊາວໜຸ່ມ ຊປປລ</h1>
+      <p class="text-success"> Lao People's Revolutionary Youth Union</p>
+    </div>
+
+
+    
+    </body>
 </html>

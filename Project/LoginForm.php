@@ -12,7 +12,7 @@
 <body>
 
 <div class="container"><br><br><br><br>
-  <h2>ກະລຸນາປ້ອນລະຫັດຜ່ານຂອງທ່ານ</h2><br>
+  <center h2>ກະລຸນາປ້ອນລະຫັດຜ່ານຂອງທ່ານ</h2><br>
   <form action="/action_page.php">
     <div class="form-group">
       <label for="email">ຊື່:</label>
@@ -27,7 +27,7 @@
         <input class="form-check-input" type="checkbox" name="remember"> ຈົດຈຳໄວ້
       </label>
     </div>
-    <button type="submit" class="btn btn-primary">ຕົກລົງ</button>
+    <a href="Main.php"button type="submit" class="btn btn-primary">ຕົກລົງ</button>
   </form>
 </div>
 
