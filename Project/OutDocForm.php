@@ -6,7 +6,7 @@
   </head>
   <body>
 
-    RegisterLoginForm
+      OutForm
 
   </body>
 </html>
