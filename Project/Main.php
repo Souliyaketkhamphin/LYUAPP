@@ -12,7 +12,7 @@
 <body>
 
 <div class="jumbotron text-center">
-  <h1>My First Bootstrap Page</h1>
+  <h1>ຍິນດີຕ້ອນຮັບສູ່ລະບົບຂາອອກ-ຂາເຂົ້າສູນກາງຊາວໜຸ່ມ ຊປປລ</h1>
   <p>Resize this responsive page to see the effect!</p>
 </div>
 
