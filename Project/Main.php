@@ -17,21 +17,29 @@
   <center h1 class="text-primary">ຍິນດີຕ້ອນຮັບສູ່ລະບົບຂາອອກ-ຂາເຂົ້າສູນກາງຊາວໜຸ່ມ ຊປປລ</h1>
   <p class="text-success"> Lao People's Revolutionary Youth Union</p>
 </div>
+<div class="col-sm-4">
+       <h3>ຍິນດີຕ້ອນຮັບທ່ານ</h3>
+</div>
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm-4">
-      <h3>ໜ້າຫຼັກ</h3><br>
-  <a href="InDocForm.php" button type="button" class="btn btn-primary">ປ້ອນຂໍ້ມູນເອກະສານ</button>
-  <a href="DatabaseForm.php"button type="button" class="btn btn-info">ຖານຂໍ້ມູນ</button>
-  <a href="ContactForm.php"button type="button" class="btn btn-warning">ຕິດຕໍ່ພວກເຮົາ</button>
-  <a href="Devoloper.php"button type="button" class="btn btn-danger">Devoloper</button>
-  <a href="InDocForm.php"button type="button" class="btn btn-link"> <a href="https://www.facebook.com/Devoloper-475050863312076/">Visit our Page</a> </button><br>
+      <div class="btn-group-vertical">
+       <button type="button" class="btn btn-primary">ໜ້າຫຼັກ</button>
+       <button type="button" class="btn btn-primary">ປ້ອນຂໍ້ມູນເອກະສານ</button>
+        <button type="button" class="btn btn-primary">ຖານຂໍ້ມູນ</button>
+         <button type="button" class="btn btn-primary">ຕິດຕໍ່ພວກເຮົາ</button>
+          <button type="button" class="btn btn-primary">Devoloper</button>
 
-    </div>
-    <div class="col-sm-4">
-           <h3>ຍິນດີຕ້ອນຮັບທ່ານ</h3>
-    </div>
+       <div class="btn-group">
+         <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+            ເພີ່ມເຕີມ...
+         </button>
+         <div class="dropdown-menu">
+           <a class="dropdown-item" href="#">Facebook Fan page</a>
+           <a href="https://www.facebook.com/Devoloper-475050863312076/?modal=admin_todo_tour"></a>
+           <a class="dropdown-item" href="#">Our</a>
+         </div>
+       </div>
+
+
 
     </div>
   </div>
