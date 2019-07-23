@@ -16,13 +16,20 @@
     <p class="text-success"> Lao People's Revolutionary Youth Union</p>
   </div>
 
+  <center>
+  <button type="button" class="btn btn-outline-primary">Add/Renew</button>
+  <button type="button" class="btn btn-outline-primary">Delete</button>
+  <button type="button" class="btn btn-outline-primary">Edit</button>
+  <button type="button" class="btn btn-outline-primary">Search</button>
+</center>
+
+
 <div class="container mt-3"><br>
   <h3>ປ້ອນຂໍ້ມູນ</h3><br>
 
   <form>
     <div class="input-group mb-3">
       <div class="input-group-prepend">
-        <span class="input-group-text">ຂໍ້ມູນ</span>
       </div>
       <input type="text" class="form-control" placeholder="ເລກທີ ">
       <input type="text" class="form-control" placeholder="ຊື ່ແລະ ນາມສະກຸນ">
@@ -36,13 +43,6 @@
       <input type="text" class="form-control" placeholder="ລາຍງານ">
     </div>
   </form>
-
-  <form>
- <div class="custom-control custom-radio">
-   <input type="radio" class="custom-control-input" id="customRadio" name="example1" value="customEx">
-   <label class="custom-control-label" for="customRadio">Custom radio</label>
- </div>
-</form>
 
 
 </div>
