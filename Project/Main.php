@@ -11,7 +11,7 @@
 
 </head>
 <body>
-  <p>toun</p>
+
 <div class="jumbotron text-center">
     <img src="lyu.jpg" class="rounded-circle" alt="Cinque Terre" width="100" height="100">
 
@@ -19,7 +19,8 @@
   <p class="text-success"> Lao People's Revolutionary Youth Union</p>
 </div>
 <div class="col-sm-4">
-       <h3>ຍິນດີຕ້ອນຮັບທ່ານ</h3>
+       <h3>ຍິນດີຕ້ອນຮັບທ່ານໆ​ເຂົ້າ​ສູ່</h3>
+
 </div>
 
       <div class="btn-group-vertical">
