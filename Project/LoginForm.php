@@ -13,6 +13,7 @@
 
 <div class="container"><br><br><br><br>
   <center h2>ກະລຸນາປ້ອນລະຫັດຜ່ານຂອງທ່ານ</h2><br>
+    <center h2>ກະລຸນາປ້ອນລະຫັດຜ່ານຂອງທ່ານ</h2><br>
   <form action="/action_page.php">
     <div class="form-group">
       <label for="email">ຊື່:</label>
