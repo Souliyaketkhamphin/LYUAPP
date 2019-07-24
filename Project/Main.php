@@ -24,11 +24,12 @@
 </div>
 
       <div class="btn-group-vertical">
-       <button type="button" class="btn btn-primary">ໜ້າຫຼັກ</button>
-       <button type="button" class="btn btn-primary">ປ້ອນຂໍ້ມູນເອກະສານ</button>
-        <button type="button" class="btn btn-primary">ຖານຂໍ້ມູນ</button>
-         <button type="button" class="btn btn-primary">ຕິດຕໍ່ພວກເຮົາ</button>
-          <button type="button" class="btn btn-primary">Devoloper</button>
+      <a href="Main.php"> <button type="button" class="btn btn-primary">ໜ້າຫຼັກ</button>
+        <a href="inDocForm.php"><button type="button" class="btn btn-primary">ປ້ອນເອກະສານເຂົ້າ</button>
+        <a href="OutDocForm.php"><button type="button" class="btn btn-primary">ປ້ອນເອກະສານອອກ</button>
+        <a href="DatabaseForm.php"><button type="button" class="btn btn-primary">ຖານຂໍ້ມູນ</button>
+        <a href="ContactForm.php"> <button type="button" class="btn btn-primary">ຕິດຕໍ່ພວກເຮົາ</button>
+          <a href="Devoloper.php"><button type="button" class="btn btn-primary">Devoloper</button>
 
        <div class="btn-group">
          <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
@@ -36,7 +37,6 @@
          </button>
          <div class="dropdown-menu">
            <a class="dropdown-item" href="#">Facebook Fan page</a>
-           <a href="https://www.facebook.com/Devoloper-475050863312076/?modal=admin_todo_tour"></a>
            <a class="dropdown-item" href="#">Our</a>
          </div>
        </div>
