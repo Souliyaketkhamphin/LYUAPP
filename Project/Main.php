@@ -38,8 +38,7 @@
          <div class="dropdown-menu">
            <a class="dropdown-item" href="#">Facebook Fan page</a>
            <a class="dropdown-item" href="#">Our</a>
-         </div>
-       </div>
+
 
 
 

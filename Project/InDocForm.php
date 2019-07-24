@@ -25,7 +25,7 @@
 
 
 <div class="container mt-3"><br>
-  <h3>ປ້ອນຂໍ້ມູນ</h3><br>
+  <h3>ປ້ອນຂໍ້ມູນຂາເຂົ້າ</h3><br>
 
   <form>
     <div class="input-group mb-3">
@@ -43,9 +43,10 @@
       <input type="text" class="form-control" placeholder="ລາຍງານ">
     </div>
   </form>
+
+  
   <div class="container">
-    <h2>Bordered Table</h2>
-    <p>The .table-bordered class adds borders on all sides of the table and the cells:</p>
+    <h2>ລາຍການ</h2>
     <table class="table table-bordered">
       <thead>
         <tr>
@@ -62,19 +63,19 @@
       </thead>
       <tbody>
         <tr>
-          <td>John</td>
-          <td>Doe</td>
-          <td>john@example.com</td>
+          <td></td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
-          <td>Mary</td>
-          <td>Moe</td>
-          <td>mary@example.com</td>
+          <td></td>
+          <td></td>
+          <td></td>
         </tr>
         <tr>
-          <td>July</td>
-          <td>Dooley</td>
-          <td>july@example.com</td>
+          <td></td>
+          <td></td>
+          <td></td>
         </tr>
 
 </body>
