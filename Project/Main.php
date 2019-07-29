@@ -5,10 +5,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-
 </head>
 <body>
 
@@ -21,30 +22,32 @@
 <div class="col-sm-4">
        <h3>ຍິນດີຕ້ອນຮັບທ່ານ</h3>
 
-</div>
 
-      <div class="btn-group-vertical">
-      <a href="Main.php"> <button type="button" class="btn btn-primary">ໜ້າຫຼັກ</button>
-        <a href="inDocForm.php"><button type="button" class="btn btn-primary">ປ້ອນເອກະສານເຂົ້າ</button>
-        <a href="OutDocForm.php"><button type="button" class="btn btn-primary">ປ້ອນເອກະສານອອກ</button>
-        <a href="DatabaseForm.php"><button type="button" class="btn btn-primary">ຖານຂໍ້ມູນ</button>
-        <a href="ContactForm.php"> <button type="button" class="btn btn-primary">ຕິດຕໍ່ພວກເຮົາ</button>
-          <a href="Devoloper.php"><button type="button" class="btn btn-primary">Devoloper</button>
+       <div id="mySidenav" class="sidenav">
+       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+       <a href="Main.php">ໜ້າຫຼັກ</a>
+       <a href="inDocForm.php">ປ້ອນເອກະສານເຂົ້າ</a>
+       <a href="OutDocForm.php">ປ້ອນເອກະສານອອກ</a>
+       <a href="DatabaseForm.php">ຖານຂໍ້ມູນ</a>
+       <a href="ContactForm.php">ຕິດຕໍ່ພວກເຮົາ</a>
+       <a href="Devoloper.php">Devoloper</a>
+       <a href="#">ເພີ່ມເຕີມ...</a>
+       <div>
+         <ul><a href="#">111111111111111</a>
+         </ul>
+       </div>
+      </div>
 
-       <div class="btn-group">
-         <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
-            ເພີ່ມເຕີມ...
-         </button>
-         <div class="dropdown-menu">
-           <a class="dropdown-item" href="#">Facebook Fan page</a>
-           <a class="dropdown-item" href="#">Our</a>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Menu</span>
+     <script>
+     function openNav() {
+       document.getElementById("mySidenav").style.width = "250px";
+     }
 
-
-
-
-    </div>
-  </div>
-</div>
+     function closeNav() {
+       document.getElementById("mySidenav").style.width = "0";
+     }
+     </script>
 
 </body>
 </html>
